@@ -34,6 +34,11 @@ src/
 ├── Library.java 
 └── Main.java 
 
+## 🖼️ Output Screenshot
+
+Here’s a preview of the program running in the console:
+
+![Library Management Output](LibraryManagement-main.png)
 
 ## Author
 Dev Juneja
