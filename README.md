@@ -28,14 +28,14 @@ It supports adding books, managing users, issuing and returning books, and viewi
    java Main
 
 src/
-├── Book.java # Book model class
-├── User.java # User model class
-├── IssueRecord.java # Issue/Return data model
-├── Library.java # Core library logic and operations
-└── Main.java # Entry point (console-based menu)
+├── Book.java 
+├── User.java 
+├── IssueRecord.java 
+├── Library.java 
+└── Main.java 
 
 
 ## Author
-Ayush Raj
-23BAI11215
+Dev Juneja
+23BAI10087
 B.tech AIML 
